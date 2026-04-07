@@ -37,8 +37,8 @@ difference is from truncation and the effective w(k,n) decomposition).
 This correction is four orders of magnitude below the required irrational
 gain pi^2 + pi = 13.01. The smooth spectral route is closed.
 
-Repository: https://hopfion-topology.github.io/hopfion-evaluation-map/
-Paper DOI:  10.5281/zenodo.19452185
+Repository: https://github.com/hopfion-topology/spectral-baseline
+Paper DOI:  10.5281/zenodo.19394164
 """
 
 import numpy as np

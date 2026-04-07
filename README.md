@@ -2,7 +2,7 @@
 
 Companion code for
 *Hopfion Topology, Quantum Geometric Tensor Saturation, and the Fine-Structure Constant*
-(A. Down, April 2026; [DOI: 10.5281/zenodo.19452185](https://doi.org/10.5281/zenodo.19452185)).
+(A. Down, April 2026; [DOI: 10.5281/zenodo.19394164](https://doi.org/10.5281/zenodo.19394164)).
 
 ## Overview
 
@@ -68,6 +68,6 @@ MIT
          and the Fine-Structure Constant},
   author={Down, A.},
   year={2026},
-  doi={10.5281/zenodo.19452185}
+  doi={10.5281/zenodo.19394164}
 }
 ```
