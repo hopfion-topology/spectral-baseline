@@ -1,12 +1,12 @@
 # Spectral Baseline Computation
 
 Companion code for
-*Hopfion Topology, Quantum Geometric Tensor Saturation, and the Fine-Structure Constant*
+*Hopf Fibration Three-Domain Volume Decomposition: Generating Polynomial and the QGT Saturation Ceiling*
 (A. Down, April 2026; [DOI: 10.5281/zenodo.19394164](https://doi.org/10.5281/zenodo.19394164)).
 
 ## Overview
 
-This script evaluates the Hopf-twisted spectral zeta function on S³ × S¹ at s = 2, reproducing the numerical spectral baseline of Appendix D.5 (equation 10).
+This script evaluates the Hopf-twisted spectral zeta function on S³ × S¹ at s = 2, reproducing the numerical spectral baseline of Appendix D.5 (equation 9).
 
 The twisted spectral zeta function is:
 
@@ -63,9 +63,9 @@ MIT
 ## Citation
 
 ```bibtex
-@misc{down2026hopfion,
-  title={Hopfion Topology, Quantum Geometric Tensor Saturation, 
-         and the Fine-Structure Constant},
+@misc{down2026hopf,
+  title={Hopf Fibration Three-Domain Volume Decomposition: 
+         Generating Polynomial and the QGT Saturation Ceiling},
   author={Down, A.},
   year={2026},
   doi={10.5281/zenodo.19394164}
