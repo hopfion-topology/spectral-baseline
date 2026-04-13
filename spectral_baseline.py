@@ -4,10 +4,11 @@ Spectral Baseline Computation for the Hopfion QGT Paper
 ========================================================
 
 Evaluates the Hopf-twisted spectral zeta function on S^3 x S^1
-at s=2, reproducing Appendix D.5 (equation 10) of:
+at s=2, reproducing Appendix D.5 (equation 9) of:
 
-  "Hopfion Topology, Quantum Geometric Tensor Saturation,
-   and the Fine-Structure Constant" (A. Down, April 2026)
+  "Hopf Fibration Three-Domain Volume Decomposition:
+   Generating Polynomial and the QGT Saturation Ceiling"
+   (A. Down, April 2026)
 
 The twisted spectral zeta function is:
 
@@ -164,7 +165,7 @@ def main():
     print("=" * 70)
     print("SPECTRAL BASELINE COMPUTATION")
     print("Hopf-twisted spectral zeta function on S^3 x S^1")
-    print("Appendix D.5, equation (10)")
+    print("Appendix D.5, equation (9)")
     print("=" * 70)
     print()
     
