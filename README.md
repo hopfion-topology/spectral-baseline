@@ -56,7 +56,7 @@ This computation establishes the baseline for the Connes trace conjecture (Appen
 - Required total (conjecture): 4π³ + π² + π ≈ 137.036
 - Missing irrational gain: π² + π ≈ 13.01
 
-Whether the Dixmier trace on the foliation C*-algebra of S³ under golden-angle Reeb flow yields the full sum is a well-posed computation in noncommutative geometry requiring the Ruelle-Sullivan current normalization. See the paper's Appendix D.4 for the precise conjecture statement.
+Whether the Dixmier trace on the foliation C*-algebra of S³ under golden-angle Reeb flow yields the full sum is a well-posed but open problem in noncommutative geometry requiring the Ruelle-Sullivan current normalization. See the paper's Appendix D.4 for the precise conjecture statement.
 
 ## License
 
