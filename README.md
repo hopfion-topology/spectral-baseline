@@ -2,7 +2,7 @@
 
 Companion code for
 *Hopf Fibration Three-Domain Volume Decomposition: Generating Polynomial and the QGT Saturation Ceiling*
-(A. Down, April 2026; [DOI: 10.5281/zenodo.19394164](https://doi.org/10.5281/zenodo.19394164)).
+(A. Down, v3, July 2026; [DOI: 10.5281/zenodo.19394164](https://doi.org/10.5281/zenodo.19394164)).
 
 ## Overview
 
@@ -56,7 +56,7 @@ This computation establishes the baseline for the Connes trace conjecture (Appen
 - Required total (conjecture): 4π³ + π² + π ≈ 137.036
 - Missing irrational gain: π² + π ≈ 13.01
 
-Whether the Dixmier trace on the foliation C*-algebra of S³ under golden-angle Reeb flow yields the full sum is a well-posed but open problem in noncommutative geometry requiring the Ruelle-Sullivan current normalization. See the paper's Appendix D.4 for the precise conjecture statement.
+Whether the Dixmier trace on the foliation C*-algebra of S³ × S¹ under golden-angle Reeb flow yields the full sum is a well-posed but open problem in noncommutative geometry requiring the Ruelle-Sullivan current normalization. See the paper's Appendix D.4 for the precise conjecture statement.
 
 ## License
 

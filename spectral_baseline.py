@@ -8,7 +8,7 @@ at s=2, reproducing Appendix D.5 (equation 9) of:
 
   "Hopf Fibration Three-Domain Volume Decomposition:
    Generating Polynomial and the QGT Saturation Ceiling"
-   (A. Down, April 2026)
+   (A. Down, v3, July 2026)
 
 The twisted spectral zeta function is:
 
